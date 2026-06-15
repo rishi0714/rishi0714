@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rishi+Kumar+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Spring+Boot;Building+scalable%2C+production-ready+APIs;Passionate+about+system+design+%26+DSA)](https://git.io/typing-svg)
+<h1>Hi there 👋, I am Rishi Kumar Uppalapati</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+scalable%2C+production-ready+APIs;Passionate+about+system+design+%26+DSA)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/rishi-kumar-uppalapati-02333928a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,6 +19,7 @@
 Backend developer passionate about building scalable APIs and production-ready systems. I work primarily with **Java**, **Spring Boot**, and **PostgreSQL**, and enjoy diving deep into system design, distributed systems, and clean API architecture. I learn best by shipping real projects — from development all the way to deployment.
 
 - 🔭 Currently building **ATRIA** — a full-stack campus event management platform
+- 📚 Exploring **Docker**, **cloud infrastructure**, and **distributed systems**
 - 🧩 Regularly solving **DSA problems** to sharpen problem-solving skills
 - 💬 Ask me about **Spring Boot**, **REST APIs**, **JWT auth**, or **PostgreSQL**
 
@@ -84,21 +87,6 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishi0714&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi0714&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rishi0714&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
