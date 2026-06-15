@@ -19,7 +19,6 @@
 Backend developer passionate about building scalable APIs and production-ready systems. I work primarily with **Java**, **Spring Boot**, and **PostgreSQL**, and enjoy diving deep into system design, distributed systems, and clean API architecture. I learn best by shipping real projects — from development all the way to deployment.
 
 - 🔭 Currently building **ATRIA** — a campus engagement & event management platform
-- 📚 Exploring **Docker**, **cloud infrastructure**, and **distributed systems**
 - 🧩 Regularly solving **DSA problems** to sharpen problem-solving skills
 - 💬 Ask me about **Spring Boot**, **REST APIs**, **JWT auth**, or **PostgreSQL**
 
@@ -40,8 +39,6 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 - ✅ **QR-based attendance system** with real-time check-in monitoring and conversion tracking
 - 📊 **Analytics dashboards** with year-wise & stream-wise participant distribution and club performance metrics
 - ☁️ **Cloudinary integration** for event banner uploads and secure cloud asset storage
-
-> 💡 *Frontend is in active development and will be linked here once published.*
 
 **Backend Tech Stack:**
 
@@ -101,7 +98,3 @@ I'm always open to collaborating on interesting backend projects, discussing sys
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishi0714&color=6366f1&style=flat-square&label=Profile+Views"/>
-</div>
