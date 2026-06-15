@@ -10,7 +10,7 @@ Currently working with Java, Spring Boot, databases, and cloud-native architectu
 
 <h2 align="left">Some Facts About Me</h2>
 
-- 📫 How to reach me *[www.linkedin.com/in/rishi-kumar-uppalapati-02333928a rishi.uppalapati07@gmail.com](www.linkedin.com/in/rishi-kumar-uppalapati-02333928a rishi.uppalapati07@gmail.com)*
+- 📫 How to reach me *[www.linkedin.com/in/rishi-kumar-uppalapati-02333928a](www.linkedin.com/in/rishi-kumar-uppalapati-02333928a)*
 
 <h2 align="left">Skillset</h2>
 
