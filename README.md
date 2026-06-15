@@ -18,7 +18,7 @@
 
 Backend developer passionate about building scalable APIs and production-ready systems. I work primarily with **Java**, **Spring Boot**, and **PostgreSQL**, and enjoy diving deep into system design, distributed systems, and clean API architecture. I learn best by shipping real projects — from development all the way to deployment.
 
-- 🔭 Currently building **ATRIA** — a full-stack campus event management platform
+- 🔭 Currently building **ATRIA** — a campus engagement & event management platform
 - 📚 Exploring **Docker**, **cloud infrastructure**, and **distributed systems**
 - 🧩 Regularly solving **DSA problems** to sharpen problem-solving skills
 - 💬 Ask me about **Spring Boot**, **REST APIs**, **JWT auth**, or **PostgreSQL**
@@ -27,31 +27,33 @@ Backend developer passionate about building scalable APIs and production-ready s
 
 ## 🚀 Featured Projects
 
-### 🎓 [ATRIA — Campus Engagement & Event Management Platform](https://github.com/rishi0714)
+### 🎓 [ATRIA — Campus Engagement & Event Management Platform](https://github.com/rishi0714/Atria)
 
-> A full-stack platform connecting students, clubs, and college administrators through a unified ecosystem for events, registrations, attendance, and analytics.
+> Connecting students, clubs, and college administrators through a unified ecosystem for events, registrations, attendance, and analytics.
 
 ATRIA modernizes campus operations at scale — colleges can manage multi-level administration, clubs can run their own dashboards, and students get a seamless experience for discovering and registering for campus activities.
 
 **Key highlights:**
 - 🏛️ **Multi-college architecture** with platform owner, college admin, club admin, and student roles (RBAC)
 - 🔐 **Google OAuth2 + JWT** access & refresh token authentication via Spring Security
-- 📅 **Full event lifecycle** — creation, publishing, registration workflows, participant management
+- 📅 **Full event lifecycle** — creation, publishing, registration workflows, and participant management
 - ✅ **QR-based attendance system** with real-time check-in monitoring and conversion tracking
-- 📊 **Analytics dashboards** with year-wise & stream-wise participant distribution, club performance metrics
+- 📊 **Analytics dashboards** with year-wise & stream-wise participant distribution and club performance metrics
 - ☁️ **Cloudinary integration** for event banner uploads and secure cloud asset storage
 
-**Tech Stack:**
+> 💡 *Frontend is in active development and will be linked here once published.*
+
+**Backend Tech Stack:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -73,7 +75,6 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -85,8 +86,6 @@ ATRIA modernizes campus operations at scale — colleges can manage multi-level 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
----
 
 ---
 
