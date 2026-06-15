@@ -1,12 +1,13 @@
 <h1 align="center">Hello World! 👋 I'm Rishi Kumar Uppalapati</h1>
 
-<h5 align="center">Backend-focused developer passionate about building scalable, reliable systems.
-Currently working with Java, Spring Boot, databases, and cloud-native architectures.
+<h5 align="center">Backend Developer | Java & Spring Boot Enthusiast
 
-🔧 Interested in backend engineering, system design & APIs
-☁️ Exploring cloud, containers, and production-grade deployments
-🚀 Always learning by building real-world projects
-</h5><br>
+Passionate about building scalable APIs, reliable backend systems, and production-ready applications.
+
+🔹 Developing backend solutions with Java, Spring Boot, PostgreSQL, and MySQL
+🔹 Exploring system design, Docker, cloud technologies, and distributed systems
+🔹 Solving DSA problems and continuously improving software engineering skills
+🔹 Learning by building real-world projects from development to deployment</h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
 
@@ -32,7 +33,7 @@ Currently working with Java, Spring Boot, databases, and cloud-native architectu
 
 <h3 align="left">Devops:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/></p>
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/></p>
 
 <h3 align="left">Backend as a Service (BaaS):</h3>
 
